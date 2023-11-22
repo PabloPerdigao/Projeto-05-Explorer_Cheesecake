@@ -3,4 +3,25 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+  /*Tornar a fonte mais Bonita*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*Configurando aas fontes */
+:root, button{
+  font-family: 'Source Serif 4', serif;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400;
+}
+
+button {
+ font-weight: 500;
 }
