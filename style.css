@@ -81,9 +81,48 @@ button {
 }
 
 /* Media queries - responsável por fazer ajuste do tamanho da tela do dispositivo */ 
-@media ( max-width:770px ) {
-  body {
-    color: red;
+@media ( min-width:1120px ) {
+  main {
+    flex-direction: row;
+
+    /* fit-content = encaixa do tamanho do centeúdo */
+    max-width: fit-content;
+    gap: 16rem;
+  }
+
+  /* Div de 1º nível
+    main > div {
+      /* flex: 1; (dividi por igual, 50% para cada)  
+      flex: 1;
+      max-width: 50rem;
+    }
+  */
+
+
+  /* Configuração do tamnho de cada "caixa" */
+  .recipe {
+    max-width: 43.5rem;
+  }
+
+  .ingredients {
+    max-width: 52.5rem;
+    
+  }
+  
+  h1, h2 {
+  font-size: 4rem;
+  line-height: 5rem;
+  }
+
+  p, li, strong {
+   font-size: 2rem;
+   line-height:2.5rem;
+  }
+
+  button {
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    line-height: 2.4rem
   }
 
 }
