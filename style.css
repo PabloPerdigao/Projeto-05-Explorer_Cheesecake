@@ -79,3 +79,11 @@ button {
  padding: .8rem 1.2rem;
  margin-top: 1.6rem;
 }
+
+/* Media queries - responsável por fazer ajuste do tamanho da tela do dispositivo */ 
+@media ( max-width:770px ) {
+  body {
+    color: red;
+  }
+
+}
