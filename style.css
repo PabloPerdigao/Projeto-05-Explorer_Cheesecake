@@ -82,6 +82,9 @@ button {
 
 /* Media queries - responsável por fazer ajuste do tamanho da tela do dispositivo */ 
 @media ( min-width:1120px ) {
+  body {
+    
+  }
   main {
     flex-direction: row;
 
