@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 
 O Projeto 05 - Cheesecake, é  uma receita de bolo,contendo um parágrafo sobre o bolo em sí e a outra com os ingredientes e instruções do modo de preparo do cheesecake.
 
-É um projeto simples e foi desenvolvido com o intuito de aplicar o conhecimento adquirido nas aulas do Nível 3 do Explorer sobre a responsividade ,ou seja, em relação ao ajuste do tamanho,acessibilidade para a melhor experiência e interação do usuário  ao acessar a receita em diferentes tipos de gadgets.
+É um projeto simples e foi desenvolvido com o intuito de aplicar os conhecimentos adquiridos nas aulas do Nível 3 do Explorer sobre a responsividade, ou seja, em relação ao ajuste do tamanho e acessibilidade para a melhor experiência e interação do usuário ao acessar a receita em diferentes tipos de gadgets.
 
 ## 🔖 Layout
 
